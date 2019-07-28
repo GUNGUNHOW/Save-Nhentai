@@ -47,9 +47,9 @@ def job(s,rs,re,threadNo):
 #main
 #-----------------------------------
 
-p_cnt=int(input("一共有幾頁要抓?ex:4339"))-1
-t_cnt=int(input("你要開幾個執行緒?ex:5"))
-s=input("你要抓甚麼?ex:doujinshi")
+p_cnt=int(input("一共有幾頁要抓?ex:4339:"))-1
+t_cnt=int(input("你要開幾個執行緒?ex:5:"))
+s=input("你要抓甚麼?ex:doujinshi:")
 k=int(p_cnt/t_cnt)
 l=int(p_cnt%t_cnt)
 print("每個執行續有"+str(k)+"頁(k)")
