@@ -14,12 +14,12 @@ def getLinks(soup):
     return arr
 
 def saveURL(URL,threadNo,pageNo,totalPage):
-    with io.open("out.txt","a",encoding="UTF-8") as f:
+    with io.open("Link\out.txt","a",encoding="UTF-8") as f:
         try:
             f.write(URL+'\n')
         except:
             f.write("None"+'\n')
-    with io.open("log.txt","a",encoding="UTF-8") as f:
+    with io.open("Link\log.txt","a",encoding="UTF-8") as f:
         ans=str(totalPage-pageNo)
         f.write(str(threadNo)+"號執行續 第"+str(pageNo)+"頁 還剩"+ans+"頁 save:"+URL+'\n')
         print(str(threadNo)+"號執行續 第"+str(pageNo)+"頁 還剩"+ans+"頁 save:"+URL)

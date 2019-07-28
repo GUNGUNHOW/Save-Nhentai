@@ -22,17 +22,13 @@ https://github.com/neslxzhen/Save-Nhentai
 ### What is it?
 抓E-Henati整個網站的連結，這些連結未來可以做很多應用，例如批次抓圖。
 
-等一下我再寫篇教學文，如何批次抓圖
-
 ### How To Use?
  - 下載Python 3.7
  - 在 `系統管理員CMD` 中輸入
 
-    `pip install bs4`
-
-    `pip install re`
-
-    `pip install selenium`
+        pip install bs4
+        pip install re
+        pip install selenium
 
     成功就會長這樣:
     ![Alt text](/doc/1.PNG)
@@ -52,11 +48,14 @@ https://github.com/neslxzhen/Save-Nhentai
     - 你要抓甚麼?ex:doujinshi:
         
         輸入你想抓甚麼，全小寫。主要是抓主網址後面的分支:
+
         ![Alt text](/doc/2.PNG)
 
     之後的輸出都放在out.txt裡面，而log是詳細版
 
 ### 還需要甚麼功能
-    - 把標籤爬下來，存成xml
+ - 把標籤爬下來，存成xml
 
-      
+### how to catch IMG
+- 修改`點我開始抓圖.bat`檔案，將`##你的帳號`及`##你的密碼`分別取代成你的帳號跟你的密碼。
+ - xeHentai的[Repositories](https://github.com/fffonion/xeHentai):
