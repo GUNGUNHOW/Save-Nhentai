@@ -1,3 +1,4 @@
+cd /d %~dp0
 xeHentai-2.0.1.9.exe  https://e-hentai.org/g/1030706/2dc8913f4b/
 xeHentai-2.0.1.9.exe  https://e-hentai.org/g/1454028/af2b320990/
 xeHentai-2.0.1.9.exe  https://e-hentai.org/g/1030667/ee43560288/
@@ -12568,3 +12569,4 @@ xeHentai-2.0.1.9.exe  https://e-hentai.org/g/1118095/772657c6c5/
 xeHentai-2.0.1.9.exe  https://e-hentai.org/g/379926/cea8f2395d/
 xeHentai-2.0.1.9.exe  https://e-hentai.org/g/1118089/27e02eef7d/
 xeHentai-2.0.1.9.exe  https://e-hentai.org/g/1118088/ca2fcdfadc/
+pause 
