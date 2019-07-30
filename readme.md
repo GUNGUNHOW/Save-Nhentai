@@ -34,6 +34,7 @@ https://github.com/neslxzhen/Save-Nhentai
 
     成功就會長這樣:
     ![Alt text](/doc/1.PNG)
+-  將 `系統管理員CMD` `cd`至專案資料夾
 -  在 `系統管理員CMD` 中輸入
     `python CatchPageUrl.py`
 
