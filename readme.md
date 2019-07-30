@@ -1,5 +1,8 @@
 ### 注意!!!!!
- - 上面的4.7M的xeHentai-2.0.1.9.exe是舊版，不用登入就能下載
+
+ - 更詳細的版本說明:https://docs.google.com/document/d/1Ob0lBubVXhEaBD6LCTR3bBm1ztwhzq7JaIHbSDvH4Jc/edit?usp=sharing
+ 
+ - 上面的4.7M的xeHentai-2.0.1.9.exe是舊版，又稱「xeHentai-2.0.1.9.nesl.1」，不用登入就能下載
 
  - 登陸後才能下載原圖的xeHentai-2.0.1.9.nesl.2，約234MB:https://drive.google.com/open?id=1dz8pSNuSmzfDb2igy5dPujr_4rrYrrhn
 
