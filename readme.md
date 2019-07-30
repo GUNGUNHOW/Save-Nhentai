@@ -2,6 +2,10 @@
 上面的4.7M的xeHentai-2.0.1.9.exe是舊版，最新的在這，約220MB:
 https://drive.google.com/open?id=1dz8pSNuSmzfDb2igy5dPujr_4rrYrrhn
 
+更新紀錄:
+- 改成英文
+- 開啟原圖下載
+
 ### 討論社群
 FB:
 https://www.facebook.com/groups/650130698824997
