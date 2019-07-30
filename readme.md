@@ -1,3 +1,7 @@
+### 注意!!!!!
+上面的4.7M的xeHentai-2.0.1.9.exe是舊版，最新的在這，約220MB:
+https://drive.google.com/open?id=1dz8pSNuSmzfDb2igy5dPujr_4rrYrrhn
+
 ### 討論社群
 FB:
 https://www.facebook.com/groups/650130698824997
@@ -60,5 +64,6 @@ https://github.com/neslxzhen/Save-Nhentai
  - 把標籤爬下來，存成xml
 
 ### how to catch IMG
-- 修改`點我開始抓圖.bat`檔案，將`##你的帳號`及`##你的密碼`分別取代成你的帳號跟你的密碼。
- - xeHentai的[Repositories](https://github.com/fffonion/xeHentai):
+- 修改`點我開始抓圖.bat`檔案
+ xeHentai的[Repositories](https://github.com/fffonion/xeHentai)
+
