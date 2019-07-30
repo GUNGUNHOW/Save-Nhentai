@@ -1,11 +1,18 @@
 ### 注意!!!!!
-上面的4.7M的xeHentai-2.0.1.9.exe是舊版，不用登入就能下載
+ - 上面的4.7M的xeHentai-2.0.1.9.exe是舊版，不用登入就能下載
 
-最新的在這，登陸後才能下載原圖，約220MB:https://drive.google.com/open?id=1dz8pSNuSmzfDb2igy5dPujr_4rrYrrhn
+ - 登陸後才能下載原圖的xeHentai-2.0.1.9.nesl.2，約234MB:https://drive.google.com/open?id=1dz8pSNuSmzfDb2igy5dPujr_4rrYrrhn
 
 但你要把bat改成這樣:
 
 `xeHentai-2.0.1.9.exe  -u 你的帳號 -k 你的密碼 https://e-hentai.org/g/1030706/2dc8913f4b/`
+
+ - 可以瘋狂開執行序的xeHentai-2.0.1.9.nesl.3，約234MB:https://drive.google.com/open?id=1dz8pSNuSmzfDb2igy5dPujr_4rrYrrhn
+
+ - xeHentai-2.0.1.9.nesl.4.exe是我個人為了要讓圖片跟專案資料夾放不同地方而製，他是nesl.3的延伸，所以執行序很多
+載點:https://drive.google.com/open?id=1yCXJaUIVBh26v2gaSwzqusqwELhQXoTH
+
+所有都在這裡:https://drive.google.com/drive/u/0/folders/1tdEmW94OhLYhb7h8OfZAq0Zd7kxdnCPi
 
 ### 討論社群
 FB:
