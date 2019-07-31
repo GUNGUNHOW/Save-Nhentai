@@ -85,3 +85,4 @@ https://github.com/neslxzhen/Save-Nhentai
 
 如果你是Save E-hentai的一員，請看公告：
 https://docs.google.com/document/d/116BYuP_gta44vgcEihb4wLbmsDhDsKlQ58j5YuD4pE0/edit?usp=drivesdk
+所有更新都以公告為主，要不然我要兩頭修
