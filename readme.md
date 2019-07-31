@@ -80,5 +80,8 @@ https://github.com/neslxzhen/Save-Nhentai
 
 ### how to catch IMG
 - 修改`點我開始抓圖.bat`檔案
+
  xeHentai的[Repositories](https://github.com/fffonion/xeHentai)
 
+如果你是Save E-hentai的一員，請看公告：
+https://docs.google.com/document/d/116BYuP_gta44vgcEihb4wLbmsDhDsKlQ58j5YuD4pE0/edit?usp=drivesdk
